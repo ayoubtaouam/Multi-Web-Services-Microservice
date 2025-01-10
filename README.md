@@ -1,7 +1,3 @@
-Thank you for sharing the details of your project. With all the provided information, I can now help create a comprehensive README file for your multi-webservice microservices project. Below is a draft structure for your README based on the details you provided.
-
----
-
 # Customer Service Microservice
 
 ## Project Overview
